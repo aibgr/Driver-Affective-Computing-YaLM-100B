@@ -1,4 +1,4 @@
-# YaLM 100B
+# LLM Affection Computing 
 **YaLM 100B** is a GPT-like neural network for generating and processing text. It can be used freely by developers and researchers from all over the world.
 
 Ongoing Project in Stress over words analysis for driver affections (Based on Pretrained language model with 100B parameters)
